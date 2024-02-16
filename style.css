@@ -1,0 +1,58 @@
+.toc {
+    color: white;
+    margin-right: 150px;
+    text-decoration: none;
+    font-weigeht: 700;
+    font-size: 20px;
+    margin-right: 140px;
+    transition: color 0.5s linear;
+
+}
+.toc:hover{
+    color: blue;
+
+}
+.container {
+    padding: 20px 28px;
+    background-color:royalblue ;
+    }
+
+
+.tab {
+    padding-left: 670px;
+    padding-top: 0px;
+
+}
+.tabl {
+   margin-left: 600px;
+   height: 200px;
+   padding: 20px; /* Установка отступов для ячеек */
+    border: 11px
+    text-align: center;
+     vertical-align: middle; 
+}
+.photos {
+    width: 330px;
+    height: 265px;
+    top: -250px;
+    position: relative;
+    left: 70px;
+}
+.ques {
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.text {
+    margin-left: 600px;
+    margin-top: -260px;
+    position: relative;
+    font-size: 25px;
+}
+.container2 {
+    
+    top: 40px;
+}
+.phot {
+    width: 40px;
+    margin-right: 140px;
+}
